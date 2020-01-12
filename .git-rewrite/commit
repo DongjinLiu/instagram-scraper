@@ -1,0 +1,20 @@
+tree 44ed553bf7756ff3d3aebacd5444fc64101ced30
+parent d35a0e086b9396d13d20ea968b0b37a62da3beec
+parent 3d711b7a013ad346d8953e7426f247b49fc648a0
+author lueng <407261380@qq.com> 1560826414 +0800
+committer GitHub <noreply@github.com> 1560826414 +0800
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJdCFIuCRBK7hj4Ov3rIwAAdHIIAD6obxOxOPYo3ws06BGsismb
+ I7OIEhApBSbD2BWLR0OOjxx4cAiuDQagC5RCRRlLMY6OcUdHi7fe+voK9/TuV7k1
+ 9h+m91+7BqnAjCkvr8JE1CWg1WCPChmUuiT19MZBQf79A9EvMxVsYOW4yALixcro
+ hu8IdOSmGbho/uTAJ7fky2WPYo8oOhN9MkjVTFKa7d/KxEwXR4rMJlO+tvVA9Gk/
+ r4zXCCXsfX2JgQhTyrhnNUBx2gU5O63dPC9wz8UWKralsYZFWM28DBvGTyCca53z
+ eQ9aHdN7E7lFXBviTJFNKWfmZipIAaWwPy8yw6lR5fXFY6QmC0MqmUmBIsjGQzI=
+ =X35x
+ -----END PGP SIGNATURE-----
+ 
+
+Merge pull request #16 from thavoo/fix-name-file
+
+fix: change name file install require.txt for requirements.txt
